@@ -73,8 +73,8 @@ The dataset used for this project contains comprehensive information on:
 
 ## **Project Files**  
 This repository includes the following files:  
-- **Startup_Funding_Dashboard.pbix** – Power BI dashboard file for visualization and analysis.  
-- **Dataset (CSV or Excel format)** – The raw dataset used for analysis.  
+- **Startup_Funding_Project.pbix** – Power BI dashboard file for visualization and analysis.  
+- **startup_funding_dataset** – The raw dataset used for analysis.  
 - **README.md** – Documentation for project overview and usage instructions.  
 
 ---
@@ -89,5 +89,4 @@ This repository includes the following files:
 ## **Created By**  
 **Abhishek Nikam**  
 Data Analyst | Power BI | SQL | Python | Excel  
-
-For any queries or collaboration, feel free to connect with me on [LinkedIn](https://www.linkedin.com).  
+Linkedin : www.linkedin.com/in/abhishek-nikam254
